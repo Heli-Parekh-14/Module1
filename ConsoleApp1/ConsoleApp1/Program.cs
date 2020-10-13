@@ -14,9 +14,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello "+name);//simple hello world program with some modification
 
-
-                                                         //base data type = object
-            int x = (int)5.005;                          //datatype conversion
+            int x = (int)5.005;                          //datatype conversion-explicit
             Console.WriteLine("\nFloat to integer:"+x);
 
             object o1 = name;               //boxing 
