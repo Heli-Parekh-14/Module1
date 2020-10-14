@@ -1,6 +1,5 @@
 ﻿using ClassLibrary1;
 using System;
-using CA2=ConsoleApp2;
 
 //using System.Collections.Generic;
 //using System.Linq;
@@ -57,7 +56,6 @@ namespace ConsoleApp1
             Console.Read();                 //make output window wait for us to press enter
             */
 
-            /*
             int x = 5;
             int y = 10;
 
@@ -66,11 +64,8 @@ namespace ConsoleApp1
             int res=o.add(x, y);
 
             Console.WriteLine(res);
-            */
-
-            CA2.Program.display();          //namespace in another solution/project-added reference,using alias=<namspace name>,use the namespace
-
-            Console.Read();
+            
+            Console.Read(); 
 
         }
     }
