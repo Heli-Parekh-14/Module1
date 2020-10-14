@@ -1,0 +1,6 @@
+C:\Users\SMART\Documents\Visual Studio 2019\Projects\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\SMART\Documents\Visual Studio 2019\Projects\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\SMART\Documents\Visual Studio 2019\Projects\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\SMART\Documents\Visual Studio 2019\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\SMART\Documents\Visual Studio 2019\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\SMART\Documents\Visual Studio 2019\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
