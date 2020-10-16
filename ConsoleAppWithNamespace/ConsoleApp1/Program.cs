@@ -13,7 +13,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args) //method declaration
         {
-            /*
+            /* ----------------Part-1-------------------
             string name = "heli";       //variable declaration and usage
 
             Console.WriteLine("Hello "+name);//simple hello world program with some modification
@@ -57,7 +57,7 @@ namespace ConsoleApp1
             Console.Read();                 //make output window wait for us to press enter
             */
 
-            /*
+            /* ----------------Part-2-------------------
             int x = 5;
             int y = 10;
 
@@ -68,6 +68,8 @@ namespace ConsoleApp1
             Console.WriteLine(res);
             */
 
+            /* ----------------Part-3-------------------
+            */
             CA2.Program.display();          //namespace in another solution/project-added reference,using alias=<namspace name>,use the namespace
 
             Console.Read();
